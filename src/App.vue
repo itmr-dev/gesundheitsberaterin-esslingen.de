@@ -2,7 +2,7 @@
   <div id="app">
     <link href="https://fonts.googleapis.com/css2?family=Alata&display=swap" rel="stylesheet">
 
-    <b-jumbotron header="Cornelia Staub" lead="Gesundheitsberaterin GGB">
+    <b-jumbotron header="Cornelia Straub" lead="Gesundheitsberaterin GGB">
       <!--<b-nav pills>
     <b-nav-item active>Startseite</b-nav-item>
     <b-nav-item>Aktuell</b-nav-item>
@@ -76,6 +76,9 @@
           <b-row>
             <b-col>
               <b-img src="./assets/imgs/salat.jpg" fluid alt="Salat" style="padding-top: 10px" />
+            </b-col>
+            <b-col>
+              <b-img src="./assets/imgs/brot.jpg" fluid alt="Brot" style="padding-top: 10px" />
             </b-col>
             <b-col>
               <b-img src="./assets/imgs/hauptgericht.jpg" fluid alt="Hauptgericht"
