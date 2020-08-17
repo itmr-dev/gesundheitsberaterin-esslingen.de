@@ -48,13 +48,6 @@
           <b-row>
             <b-col>
               <h2>Ich biete an</h2>
-            </b-col>
-            <b-col>
-              <h2>Interesse</h2>
-            </b-col>
-          </b-row>
-          <b-row>
-            <b-col>
               <ul class="fa-ul">
                 <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>Gesundheitsberatung</li>
                 <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>Ernährungseinzelberatung</li>
@@ -66,6 +59,7 @@
               </ul>
             </b-col>
             <b-col>
+              <h2>Interesse</h2>
               <p class="text">Wir sind eine Körper-Geist-Seele Einheit.
                 Mir ist es ein Anliegen, interessierten Menschen meine Erfahrungen und das Wissen über die Zusammenhänge
                 der eigenen Lebensweise und der Krankheit bzw. Gesundheit weiterzugeben.
