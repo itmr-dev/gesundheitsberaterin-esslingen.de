@@ -41,7 +41,7 @@
               <p class="text" style="font-weight: 800;">ärztlich geprüfte Gesundheitsberaterin GGB</p>
             </b-col>
             <b-col>
-              <b-img src="./assets/imgs/conny.jpg" fluid alt="Cornelia Straub" style="padding-top: 10px; height: 40%" />
+              <b-img src="./assets/imgs/conny.jpg" fluid alt="Cornelia Straub" style="padding-top: 10px;" />
             </b-col>
           </b-row>
 
@@ -75,14 +75,14 @@
           </b-row>
           <b-row>
             <b-col>
-              <b-img src="./assets/imgs/salat.jpg" fluid alt="Salat" style="padding-top: 10px; height: 40%" />
+              <b-img src="./assets/imgs/salat.jpg" fluid alt="Salat" style="padding-top: 10px" />
             </b-col>
             <b-col>
               <b-img src="./assets/imgs/hauptgericht.jpg" fluid alt="Hauptgericht"
-                style="padding-top: 10px; height: 40%" />
+                style="padding-top: 10px;" />
             </b-col>
             <b-col>
-              <b-img src="./assets/imgs/nachtisch.jpg" fluid alt="Nachtisch" style="padding-top: 10px; height: 40%" />
+              <b-img src="./assets/imgs/nachtisch.jpg" fluid alt="Nachtisch" style="padding-top: 10px" />
             </b-col>
           </b-row>
 
@@ -189,5 +189,9 @@
 
   .text {
     font-size: 1.25rem;
+  }
+
+  .fa-li {
+    color: #60c731;
   }
 </style>
