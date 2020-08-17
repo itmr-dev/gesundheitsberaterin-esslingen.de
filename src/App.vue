@@ -1,7 +1,6 @@
 <template>
   <div id="app">
     <link href="https://fonts.googleapis.com/css2?family=Alata&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
     <b-jumbotron header="Cornelia Staub" lead="Gesundheitsberaterin GGB">
       <!--<b-nav pills>
@@ -28,16 +27,16 @@
           </b-row>
           <b-row>
             <b-col>
-              <ul>
-                <li>1966 in Esslingen geboren</li>
-                <li>verheiratet und 2 erwachsene Kinder</li>
-                <li>gelernte Bürokauffrau</li>
-                <li>Übungsleiterin Aerobic</li>
-                <li>Trainerin B Prävention Erwachsene</li>
-                <li>Rückentrainerin</li>
-                <li>Pilatestrainerin</li>
-                <li>Beckenbodentrainerin</li>
-                <li>Achtsamkeitstrainerin</li>
+              <ul class="fa-ul">
+                <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>1966 in Esslingen geboren</li>
+                <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>verheiratet und 2 erwachsene Kinder</li>
+                <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>gelernte Bürokauffrau</li>
+                <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>Übungsleiterin Aerobic</li>
+                <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>Trainerin B Prävention Erwachsene</li>
+                <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>Rückentrainerin</li>
+                <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>Pilatestrainerin</li>
+                <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>Beckenbodentrainerin</li>
+                <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>Achtsamkeitstrainerin</li>
               </ul>
               <p class="text" style="font-weight: 800;">ärztlich geprüfte Gesundheitsberaterin GGB</p>
             </b-col>
@@ -56,14 +55,14 @@
           </b-row>
           <b-row>
             <b-col>
-              <ul>
-                <li>Gesundheitsberatung</li>
-                <li>Ernährungseinzelberatung</li>
-                <li>Einkaufsbegleitung</li>
-                <li>Vorträge</li>
-                <li>Meditation</li>
-                <li>Rückentraining</li>
-                <li>Pilates</li>
+              <ul class="fa-ul">
+                <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>Gesundheitsberatung</li>
+                <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>Ernährungseinzelberatung</li>
+                <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>Einkaufsbegleitung</li>
+                <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>Vorträge</li>
+                <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>Meditation</li>
+                <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>Rückentraining</li>
+                <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>Pilates</li>
               </ul>
             </b-col>
             <b-col>
@@ -91,16 +90,16 @@
             <h2>Ernährungsbedingte Zivilisationskrankheiten nach Dr. Max Otto Bruker</h2>
           </b-row>
           <b-row>
-            <ul>
-              <li>Gebissverfall, Zahnkaries, Parodontose und Zahnfehlstellungen</li>
-              <li>Erkrankungen des Bewegungsapparates, so genannte rheumatische Erkrankungen</li>
-              <li>Alle Stoffwechselkrankheiten wie Übergewicht und Zuckerkrankheit</li>
-              <li>Die meisten Erkrankungen der Verdauungsorgane wie Stuhlverstopfung</li>
-              <li>Gefäßerkrankungen wie Arteriosklerose, Herzinfarkt, Schlaganfall und Thrombosen</li>
-              <li>Mangelnde Infektabwehr</li>
-              <li>Die meisten der so genannten Allergien</li>
-              <li>Manche organische Erkrankungen des Nervensystems, z.B. MS</li>
-              <li>Auch an der Entstehung des Krebses ist die Fehlernährung in erheblichem Maße beteiligt</li>
+            <ul class="fa-ul">
+              <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>Gebissverfall, Zahnkaries, Parodontose und Zahnfehlstellungen</li>
+              <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>Erkrankungen des Bewegungsapparates, so genannte rheumatische Erkrankungen</li>
+              <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>Alle Stoffwechselkrankheiten wie Übergewicht und Zuckerkrankheit</li>
+              <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>Die meisten Erkrankungen der Verdauungsorgane wie Stuhlverstopfung</li>
+              <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>Gefäßerkrankungen wie Arteriosklerose, Herzinfarkt, Schlaganfall und Thrombosen</li>
+              <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>Mangelnde Infektabwehr</li>
+              <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>Die meisten der so genannten Allergien</li>
+              <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>Manche organische Erkrankungen des Nervensystems, z.B. MS</li>
+              <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>Auch an der Entstehung des Krebses ist die Fehlernährung in erheblichem Maße beteiligt</li>
             </ul>
           </b-row>
 
@@ -180,25 +179,8 @@
     margin-top: 50px;
   }
 
-  ul {
-    list-style: none;
-    padding: 0;
-  }
-
   li {
-    padding-left: 1.3em;
     font-size: 1.2rem;
-  }
-
-  li:before {
-    content: "\f5d1";
-    /* FontAwesome Unicode */
-    font-family: FontAwesome;
-    display: inline-block;
-    margin-left: -1.3em;
-    /* same as padding-left set on li */
-    width: 1.3em;
-    /* same as padding-left set on li */
   }
 
   .lead {
