@@ -22,6 +22,46 @@
           <b-row>
             <p style="margin-left: 10%; font-size: 1.5rem;">Zur Ruhe kommen</p>
           </b-row>
+
+          <b-row>
+            <h2>Aktuell</h2>
+          </b-row>
+          <b-row>
+            <h3>Vortag: Gesund durch vollwertige Ernährung</h3>
+          </b-row>
+            <b-row>
+              <p class="text">
+                Alle Krankheiten haben eine Ursache. Aber nur wenige Menschen wissen, dass ein großer Teil der Erkrankungen durch falsche Ernährung entsteht.
+              </p>
+            </b-row>
+            <b-row>
+              <p class="text">
+                Vortrag am Mittwoch, den 28.10.2020 um 19:30 h bis ca. 20:45 h.
+              </p>
+            </b-row>
+            <b-row>
+              <p class="text">
+                Mit der bitte um eine verbindliche Anmeldung unter:
+                <br>
+                <a href="mailto:info@gesundheitsberaterin-esslingen.de">info@gesundheitsberaterin-esslingen.de</a>
+                <br>
+                Begrenzte Teilnehmerzahl
+              </p>
+            </b-row>
+            <b-row>
+              <p class="text">
+                Kosten: € 8,--
+              </p>
+            </b-row>
+            <b-row>
+              <p class="text">
+                Veranstaltungsort:
+                Familienzentrum Esslingen
+                Bachstr. 6
+                73730 Esslingen
+              </p>
+            </b-row>
+
           <b-row>
             <h2>Über mich</h2>
           </b-row>
@@ -174,6 +214,10 @@
 
   h2 {
     margin-top: 50px;
+  }
+
+  h2 {
+    margin-top: 30px;
   }
 
   li {
