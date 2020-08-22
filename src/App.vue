@@ -67,10 +67,8 @@
         </b-row>
 
         <b-row>
-          <h2>Über mich</h2>
-        </b-row>
-        <b-row>
           <b-col>
+            <h2>Über mich</h2>
             <ul class="fa-ul">
               <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>1966 in Esslingen geboren</li>
               <li><span class="fa-li"><i class="fas fa-apple-alt"></i></span>verheiratet und 2 erwachsene Kinder</li>
@@ -208,6 +206,7 @@
 </template>
 
 <script>
+  document.title = 'Cornelia Straub - Gesundheitsberaterin GGB';
   export default {
     name: 'App',
     components: {}
