@@ -60,8 +60,11 @@
         <b-row>
           <p class="text">
             Veranstaltungsort:
+            <br>
             Familienzentrum Esslingen
+            <br>
             Bachstr. 6
+            <br>
             73730 Esslingen
           </p>
         </b-row>
