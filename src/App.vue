@@ -30,7 +30,7 @@
           <h2>Aktuell</h2>
         </b-row>
         <b-row>
-          <h3>Vortag: Gesund durch vollwertige Ernährung</h3>
+          <h3>Vortrag: Gesund durch vollwertige Ernährung</h3>
         </b-row>
         <b-row>
           <p class="text">
