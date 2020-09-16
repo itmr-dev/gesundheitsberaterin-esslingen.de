@@ -45,7 +45,7 @@
         </b-row>
         <b-row>
           <p class="text">
-            Mit der bitte um eine verbindliche Anmeldung unter:
+            Mit der Bitte um eine verbindliche Anmeldung unter:
             <br>
             <a href="mailto:info@gesundheitsberaterin-esslingen.de">info@gesundheitsberaterin-esslingen.de</a>
             <br>
