@@ -40,7 +40,7 @@
         </b-row>
         <b-row>
           <p class="text">
-            Vortrag am Mittwoch, den 28.10.2020 um 19:30 h bis ca. 20:45 h.
+            Vortrag am Montag, den 18. Januar 2021 um 19:30 h bis ca. 20:45 h.
           </p>
         </b-row>
         <b-row>
