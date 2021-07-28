@@ -86,7 +86,7 @@
             <p class="text" style="font-weight: 800;">ärztlich geprüfte Gesundheitsberaterin GGB</p>
           </b-col>
           <b-col>
-            <b-img src="./assets/imgs/conny.jpg" fluid alt="Cornelia Straub"
+            <b-img src="./assets/imgs/conny3.jpg" fluid alt="Cornelia Straub"
               style="padding-top: 10px; max-height: 30ch; width: auto;" />
           </b-col>
         </b-row>
