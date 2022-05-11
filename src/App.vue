@@ -40,7 +40,7 @@
         </b-row>
         <b-row>
           <p class="text">
-            Vortrag am Montag, den 12. Juli 2021 um 19:30 h bis ca. 20:45 h.
+            Vortrag am Mittwoch, den 20. Juli 2022 um 19:30 h bis ca. 20:45 h.
           </p>
         </b-row>
         <b-row>
