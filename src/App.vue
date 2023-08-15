@@ -26,7 +26,7 @@
           <p style="margin-left: 10%; font-size: 1.5rem;">Zur Ruhe kommen</p>
         </b-row>
 
-        <b-row>
+        <!--b-row>
           <h2>Aktuell</h2>
         </b-row>
         <b-row>
@@ -67,7 +67,7 @@
             <br>
             73730 Esslingen
           </p>
-        </b-row>
+        </b-row-->
 
         <b-row>
           <b-col>
